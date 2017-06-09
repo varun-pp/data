@@ -1,0 +1,14 @@
+{
+	"descp-text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+	"how-it-works": [
+		{
+			"ordNum": "1",
+			"ordInfotext": {
+				"ordInfo": "Quick Sign-up:",
+				"orddiscp": " Just verify your mobile number and get straight to ordering"
+			}
+		}
+	],
+	"google-play": "https://play.google.com/store/apps/details?id=com.js.poshCurry",
+	"coming-soon": "Coming Soon On The"
+}
